@@ -13,8 +13,3 @@
 - **Ngôn ngữ:** C++ (C++11 trở lên)
 - **Kiến thức cốt lõi:** Lập trình Hướng đối tượng (OOP), Cấu trúc dữ liệu STL (`std::vector`, `std::sort`), Luồng thao tác tệp tin (`<fstream>`)
 
-## Cấu trúc thư mục
-```text
-├── main.cpp         # Mã nguồn chính chứa logic điều khiển và thực thể
-├── students.csv     # File dữ liệu CSV (tự động tạo khi chạy chương trình)
-└── README.md        # Tài liệu hướng dẫn dự án
